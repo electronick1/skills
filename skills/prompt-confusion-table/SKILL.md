@@ -1,5 +1,5 @@
 ---
-name: prompt-confusion-table-2
+name: prompt-confusion-table
 description: >
     Verify artifact with instructions — a prompt, skill, rule file, tool description, or agent definition
     — capturing what the model produced while working, and reporting confusion table.
