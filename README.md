@@ -17,9 +17,9 @@ The end goal is for every skill to go through multiple rounds of evals.
 
 ## Available skills
 
-| Skill | Description | Blog post | LLAssemblyCLI workflow | Status |
+| Skill | Description | Blog post | Skill/Workflow | Status |
 | --- | --- | --- | --- | --- |
-| [prompt-confusion-table](skills/prompt-confusion-table/) | Reads the reasoning traces of a run and builds a confusion table: every row pins an exact phrase of the prompt, skill, rule file, tool description or agent definition to the reasoning quote where it cost the model attention, typed and split into artifact-caused and task-caused. | [Mining Qwen3.8 reasoning trace for prompt/skill evaluation](https://olegivye.com/#/article/confusion-evaluation) | false | `in-use` |
+| [prompt-confusion-table](skills/prompt-confusion-table/) | Reads the reasoning traces of a run and builds a confusion table: every row pins an exact phrase of the prompt, skill, rule file, tool description or agent definition to the reasoning quote where it cost the model attention, typed and split into artifact-caused and task-caused. | [Mining Qwen3.8 reasoning trace for prompt/skill evaluation](https://olegivye.com/#/article/confusion-evaluation) | SKILL | `in-use` |
 
 ## About LLAssemblyCLI
 
